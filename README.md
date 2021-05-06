@@ -2,7 +2,7 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-## npm install package.json
+## `npm install package.json`
 
 launch this command for install package and enjoy.
 
