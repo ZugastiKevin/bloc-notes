@@ -1,0 +1,57 @@
+.stucturing {
+  display: grid;
+  grid-template-columns: 1fr 4fr;
+  gap: 5px;
+}
+
+.colomn {
+  background-color: #1b1b1b;
+}
+
+.left li,
+button {
+  list-style: none;
+  background-color: #1b1b1b;
+  border: none;
+  color: #f4e0df;
+}
+
+.inRight {
+  margin: 15px 10px;
+}
+
+ul {
+  padding: 0px 25px;
+}
+
+.inLeft {
+  width: 80%;
+  display: block;
+  margin: 10px auto;
+}
+
+.btn-red {
+  background-color: #c70625;
+  color: #f4e0df;
+  border: none;
+}
+
+.note {
+  color: #f4e0df;
+  margin: 20px;
+}
+
+.note h1 {
+  color: #c9052a;
+}
+
+.form {
+  background-color: #4b4b4b;
+  color: #f4e0df;
+  border: none;
+  display: grid;
+  grid-template-columns: 1fr;
+  padding: 15px 10px;
+  margin: 15px 10px;
+  width: 96%;
+}
